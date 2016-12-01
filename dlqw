@@ -1,0 +1,72 @@
+[33mcommit 779f2d9d13c49b6ac19a68d14479f84d61d2fee6[m
+Merge: 856d64d 5c7b4e6
+Author: jie.yang <jie_yang_ext@aisino-wincor.com>
+Date:   Thu Dec 1 10:39:48 2016 +0800
+
+    conflict fixed
+
+[33mcommit 856d64d83cd3997d74d96e2270707fb74e059f69[m
+Author: jie.yang <jie_yang_ext@aisino-wincor.com>
+Date:   Thu Dec 1 10:38:12 2016 +0800
+
+    & simple
+
+[33mcommit 5c7b4e64716d37a19486746a6bbbbd44b2ccb11a[m
+Author: jie.yang <jie_yang_ext@aisino-wincor.com>
+Date:   Thu Dec 1 10:36:29 2016 +0800
+
+    AND simple
+
+[33mcommit 262107c253e92771f08e97b1890c9e12c13122d7[m
+Author: jie.yang <jie_yang_ext@aisino-wincor.com>
+Date:   Thu Dec 1 10:33:29 2016 +0800
+
+    branch test
+
+[33mcommit a8bc09bfb60d322d5e5b61d84159946f8c8f007f[m
+Author: jie.yang <jie_yang_ext@aisino-wincor.com>
+Date:   Thu Dec 1 10:05:09 2016 +0800
+
+    remove test.txt
+
+[33mcommit 57a9694372e84f8ad0dd553943ff643a2678f835[m
+Author: jie.yang <jie_yang_ext@aisino-wincor.com>
+Date:   Thu Dec 1 10:03:50 2016 +0800
+
+    add test.txt
+
+[33mcommit 8b6f7e29e7312dabc33029a08fe0213b54f2752f[m
+Author: jie.yang <jie_yang_ext@aisino-wincor.com>
+Date:   Thu Dec 1 09:56:50 2016 +0800
+
+    git change readmefile
+
+[33mcommit 781f0be154e7366308a08a7d714aaefffabf19ba[m
+Author: jie.yang <jie_yang_ext@aisino-wincor.com>
+Date:   Thu Dec 1 09:55:18 2016 +0800
+
+    git tracks changes
+
+[33mcommit dbabd841e6c60d754033d1ee05780b75267b4f4f[m
+Author: jie.yang <jie_yang_ext@aisino-wincor.com>
+Date:   Thu Dec 1 09:51:23 2016 +0800
+
+    new file license add
+
+[33mcommit 0921080a6ae0c72dd77b9cb58f09444906c90742[m
+Author: jie.yang <jie_yang_ext@aisino-wincor.com>
+Date:   Thu Dec 1 09:44:28 2016 +0800
+
+    append GPL
+
+[33mcommit dbe343aefeb7a0ed2ba6bf55ac3aa41a5402f258[m
+Author: jie.yang <jie_yang_ext@aisino-wincor.com>
+Date:   Thu Dec 1 09:43:24 2016 +0800
+
+    add distributed
+
+[33mcommit 50a703ad22386c2be50c5f3a96f683f47e062758[m
+Author: jie.yang <jie_yang_ext@aisino-wincor.com>
+Date:   Thu Dec 1 09:40:57 2016 +0800
+
+    wrote a readme file
